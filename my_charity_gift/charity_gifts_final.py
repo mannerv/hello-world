@@ -1,9 +1,7 @@
-# TIE-02101 Ohjelmointi 1: Johdanto
+# 12/2018
 # Name:     CharityGifts
 
 # Author:   Veera Manner
-#           240130
-#           veera.manner@student.tut.fi
 
 # Description: Pick a charity from a pre-selection. You can save your choice
 #              to a list, which will be shown in the user interface (for the
